@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iandimno.github.io/sitemap.html.gz
+Sitemap: https://iandimno.github.io/app/sitemap.html.gz
+Sitemap: https://iandimno.github.io/assets/sitemap.html.gz
+Sitemap: https://iandimno.github.io/css/sitemap.html.gz
+Sitemap: https://iandimno.github.io/includes/sitemap.html.gz
+Sitemap: https://iandimno.github.io/item/sitemap.html.gz
+Sitemap: https://iandimno.github.io/src/sitemap.html.gz
